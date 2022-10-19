@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/alokyadav1/ReactComment/static/css/main.679257e5.css",
-    "main.js": "/alokyadav1/ReactComment/static/js/main.59efa72b.js",
-    "static/js/787.7d21d03f.chunk.js": "/alokyadav1/ReactComment/static/js/787.7d21d03f.chunk.js",
-    "index.html": "/alokyadav1/ReactComment/index.html",
-    "main.679257e5.css.map": "/alokyadav1/ReactComment/static/css/main.679257e5.css.map",
-    "main.59efa72b.js.map": "/alokyadav1/ReactComment/static/js/main.59efa72b.js.map",
-    "787.7d21d03f.chunk.js.map": "/alokyadav1/ReactComment/static/js/787.7d21d03f.chunk.js.map"
+    "main.css": "/ReactComment/static/css/main.679257e5.css",
+    "main.js": "/ReactComment/static/js/main.e08aec1b.js",
+    "static/js/787.7d21d03f.chunk.js": "/ReactComment/static/js/787.7d21d03f.chunk.js",
+    "index.html": "/ReactComment/index.html",
+    "main.679257e5.css.map": "/ReactComment/static/css/main.679257e5.css.map",
+    "main.e08aec1b.js.map": "/ReactComment/static/js/main.e08aec1b.js.map",
+    "787.7d21d03f.chunk.js.map": "/ReactComment/static/js/787.7d21d03f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.679257e5.css",
-    "static/js/main.59efa72b.js"
+    "static/js/main.e08aec1b.js"
   ]
 }
